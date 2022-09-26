@@ -1,0 +1,23 @@
+.education-area h1{
+    width: 30vh;
+    height: 100px;
+}
+.education-area p{
+    width: 65vh;
+}
+.card{
+    height: 15%;
+    width: 18%;
+    left: 450px;
+    bottom: 140px;
+    display: flex;
+}
+.code-academy h1{
+    width: 300px;
+    height: 100px;
+}
+.card1{
+    height: 360px;
+    width: 35%;
+    bottom: 140px;
+}
